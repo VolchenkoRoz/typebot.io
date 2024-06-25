@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/baptisteArno/typebot.io/CHANGELOG.md
